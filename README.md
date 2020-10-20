@@ -7,7 +7,7 @@
 <repositories>
     <repository>
         <id>repository2</id>
-        <url>https://github.com/youspend8/repo/raw/master/snapshots</url>
+        <url>https://github.com/youspend8/excel-download-helper/raw/master/snapshots</url>
         <snapshots>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
