@@ -3,8 +3,8 @@ package org.project.excel.dto;
 import lombok.*;
 import org.apache.poi.ss.usermodel.HorizontalAlignment;
 import org.project.excel.annotation.*;
-import org.project.excel.style.BlackCellStyle;
-import org.project.excel.style.NormalCellStyle;
+import org.project.excel.style.cellstyle.BlackCellStyle;
+import org.project.excel.style.cellstyle.NormalCellStyle;
 
 @Getter
 @Setter

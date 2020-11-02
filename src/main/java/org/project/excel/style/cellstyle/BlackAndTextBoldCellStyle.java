@@ -1,7 +1,8 @@
-package org.project.excel.style;
+package org.project.excel.style.cellstyle;
 
 import org.apache.poi.ss.usermodel.HorizontalAlignment;
-import org.project.excel.config.XlsCellStyleConfigurer;
+import org.project.excel.style.AbstractCellStyle;
+import org.project.excel.style.XlsCellStyleConfigurer;
 
 public class BlackAndTextBoldCellStyle extends AbstractCellStyle {
 
