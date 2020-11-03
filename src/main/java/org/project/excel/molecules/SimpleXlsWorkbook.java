@@ -31,6 +31,7 @@ public class SimpleXlsWorkbook {
         workbook.write(ous);
         workbook.close();
         workbook.dispose();
+        System.out.println("OutputStream 안닫음");
     }
 
     public void write(File file) throws IOException {
