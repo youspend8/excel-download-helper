@@ -90,7 +90,9 @@ public class SimpleXlsSheet<T> implements XlsSheet {
 
     private SXSSFCell buildCells(SXSSFRow row, int columnIndex, Object item) {
         SXSSFCell cell = row.createCell(columnIndex);
-        if (Number.class.isAssignableFrom(item.getClass())) {
+        if (item instanceof Integer) {
+            cell.setCellValue(((Number) item).intValue());
+        } else if (Number.class.isAssignableFrom(item.getClass())) {
             cell.setCellValue(((Number) item).doubleValue());
         } else if (item instanceof String) {
             cell.setCellValue((String) item);

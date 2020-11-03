@@ -1,7 +1,6 @@
 package org.project.excel.style;
 
 import org.apache.poi.ss.usermodel.CellStyle;
-import org.project.excel.config.XlsCellStyleConfigurer;
 
 public abstract class AbstractCellStyle {
     private XlsCellStyleConfigurer configurer = new XlsCellStyleConfigurer();
