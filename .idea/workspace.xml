@@ -3,7 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="d6f93faf-2c3b-4744-b82a-a1ce2bad8386" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/excel/style/NormalCellStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/project/excel/style/NormalCellStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.jar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.pom" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.pom.md5" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.pom.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.pom.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/org/project/excel/0.1.0/excel-0.1.0.pom.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/org/project/excel/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/org/project/excel/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/org/project/excel/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/org/project/excel/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snapshots/org/project/excel/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/snapshots/org/project/excel/maven-metadata.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/excel/molecules/SimpleXlsWorkbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/project/excel/molecules/SimpleXlsWorkbook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,21 +279,25 @@
     </state>
     <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1603067409464" />
     <state x="1060" y="454" key="FileChooserDialogImpl/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1604288593405" />
-    <state width="2500" height="381" key="GridCell.Tab.0.bottom" timestamp="1602752360888">
+    <state width="2517" height="383" key="GridCell.Tab.0.bottom" timestamp="1604366968038">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state width="2517" height="383" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604366968038" />
     <state width="2500" height="381" key="GridCell.Tab.0.bottom/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1602752360888" />
-    <state width="2500" height="381" key="GridCell.Tab.0.center" timestamp="1602752360888">
+    <state width="2517" height="383" key="GridCell.Tab.0.center" timestamp="1604366968038">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state width="2517" height="383" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604366968038" />
     <state width="2500" height="381" key="GridCell.Tab.0.center/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1602752360888" />
-    <state width="2500" height="381" key="GridCell.Tab.0.left" timestamp="1602752360888">
+    <state width="2517" height="383" key="GridCell.Tab.0.left" timestamp="1604366968038">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state width="2517" height="383" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604366968038" />
     <state width="2500" height="381" key="GridCell.Tab.0.left/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1602752360888" />
-    <state width="2500" height="381" key="GridCell.Tab.0.right" timestamp="1602752360888">
+    <state width="2517" height="383" key="GridCell.Tab.0.right" timestamp="1604366968038">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state width="2517" height="383" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604366968038" />
     <state width="2500" height="381" key="GridCell.Tab.0.right/2560.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1602752360888" />
     <state x="1097" y="398" key="RollbackChangesDialog" timestamp="1603066859654">
       <screen x="0" y="0" width="2560" height="1400" />
